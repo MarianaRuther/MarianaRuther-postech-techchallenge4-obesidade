@@ -1,0 +1,77 @@
+================================================================================
+TECH CHALLENGE - FASE 4 - DATA ANALYTICS
+SISTEMA PREDITIVO DE OBESIDADE
+================================================================================
+
+INFORMAÇÕES DO PROJETO
+----------------------
+Nome: Sistema Preditivo de Obesidade
+Desenvolvido para: Auxiliar equipe médica no diagnóstico de obesidade
+Tecnologias: Python, Scikit-learn, Streamlit, Plotly
+
+LINKS DE ENTREGA
+----------------
+
+1. APLICAÇÃO PREDITIVA (STREAMLIT):
+   streamlit run app.py
+
+2. DASHBOARD ANALÍTICO:
+   streamlit run dashboard.py
+
+3. REPOSITÓRIO GITHUB:
+   https://github.com/MarianaRuther/postech-techchallenge4-obesidade
+   Nota: Link do repositório GitHub com todo o código do projeto
+
+CARACTERÍSTICAS DO PROJETO
+--------------------------
+
+✓ Pipeline completo de Machine Learning
+  - Feature Engineering
+  - Preprocessamento de dados
+  - Treinamento de modelo
+  - Validação cruzada
+
+✓ Modelo de Machine Learning
+  - Algoritmo: Random Forest / Gradient Boosting
+  - Acurácia: > 85%
+  - Validação: Cross-validation 5-fold
+
+✓ Aplicação Preditiva (Streamlit)
+  - Interface interativa
+  - Formulário completo de entrada
+  - Predição em tempo real
+  - Visualização de probabilidades
+  - Recomendações médicas
+
+✓ Dashboard Analítico
+  - Métricas gerais
+  - Análise por gênero
+  - Análise de fatores de risco
+  - Visualizações interativas
+  - Insights principais
+  - Recomendações para equipe médica
+
+ESTRUTURA DO PROJETO
+--------------------
+- ml_pipeline.py: Pipeline completo de ML
+- app.py: Aplicação Streamlit (Sistema Preditivo + Dashboard)
+- dashboard.py: Dashboard analítico
+- requirements.txt: Dependências do projeto
+- README.md: Documentação completa
+- DEPLOY.md: Guia de deploy
+
+COMO EXECUTAR
+-------------
+1. Instalar dependências: pip install -r requirements.txt
+2. Treinar modelo: python ml_pipeline.py
+3. Executar aplicação: streamlit run app.py
+
+OBSERVAÇÕES
+-----------
+- O modelo deve ser treinado antes de usar a aplicação
+- Todos os arquivos necessários estão no repositório GitHub
+- A aplicação está pronta para deploy no Streamlit Cloud
+
+================================================================================
+Desenvolvido com ❤️ por mim para auxiliar uma equipe médica algum dia!
+================================================================================
