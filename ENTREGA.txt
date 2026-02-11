@@ -12,14 +12,18 @@ Tecnologias: Python, Scikit-learn, Streamlit, Plotly
 LINKS DE ENTREGA
 ----------------
 
-1. APLICAÇÃO PREDITIVA (STREAMLIT):
+1. APLICAÇÃO ONLINE (STREAMLIT CLOUD):
+   https://postech-techchallenge4-obesidade.streamlit.app/
+   Nota: Acesse o sistema preditivo e o dashboard direto no navegador.
+
+2. EXECUÇÃO LOCAL - Aplicação Preditiva:
    streamlit run app.py
 
-2. DASHBOARD ANALÍTICO:
+3. EXECUÇÃO LOCAL - Dashboard Analítico:
    streamlit run dashboard.py
 
-3. REPOSITÓRIO GITHUB:
-   https://github.com/MarianaRuther/postech-techchallenge4-obesidade
+4. REPOSITÓRIO GITHUB:
+   https://github.com/MarianaRuther/MarianaRuther-postech-techchallenge4-obesidade
    Nota: Link do repositório GitHub com todo o código do projeto
 
 CARACTERÍSTICAS DO PROJETO

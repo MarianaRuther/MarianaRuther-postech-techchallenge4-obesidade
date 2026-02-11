@@ -1,6 +1,8 @@
 # 🏥 Sistema Preditivo de Obesidade - Tech Challenge Fase 4
 
-c para auxiliar a equipe médica na predição e análise de obesidade.
+Sistema para auxiliar a equipe médica na predição e análise de obesidade.
+
+**🌐 App em produção:** [postech-techchallenge4-obesidade.streamlit.app](https://postech-techchallenge4-obesidade.streamlit.app/)
 
 ## 📋 Sobre o Projeto
 
