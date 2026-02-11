@@ -1,9 +1,30 @@
-pandas==2.1.4
-numpy==1.26.2
-scikit-learn==1.3.2
-streamlit==1.29.0
-plotly==5.18.0
-seaborn==0.13.0
-matplotlib==3.8.2
-joblib==1.3.2
-imbalanced-learn==0.11.0
+# =============================================================================
+# Dependências do Projeto - Sistema Preditivo de Obesidade
+# Tech Challenge 4 - FIAP
+# =============================================================================
+
+# Data manipulation
+pandas>=2.0,<3
+numpy>=1.24,<3
+
+# Machine Learning
+scikit-learn>=1.3,<2
+joblib>=1.3
+imbalanced-learn>=0.12
+
+# Web Interface
+streamlit>=1.29
+
+# Visualizations
+plotly>=5.18
+seaborn>=0.13
+matplotlib>=3.8
+
+# Testing (opcional)
+pytest>=8.0
+pytest-cov>=4.1
+
+# =============================================================================
+# Notas: pip escolhe versões com wheels quando possível (evita compilação).
+# Para rodar testes: pytest test_ml_pipeline.py -v
+# =============================================================================

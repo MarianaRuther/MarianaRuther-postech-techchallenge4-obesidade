@@ -1,6 +1,6 @@
 # 🏥 Sistema Preditivo de Obesidade - Tech Challenge Fase 4
 
-Sistema completo de Machine Learning para auxiliar a equipe médica na predição e análise de obesidade.
+c para auxiliar a equipe médica na predição e análise de obesidade.
 
 ## 📋 Sobre o Projeto
 
